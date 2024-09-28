@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200684743778",
+    "project_id": "friendzy-c3eab",
+    "storage_bucket": "friendzy-c3eab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200684743778:android:dd1c3a072b306ee95df53b",
+        "android_client_info": {
+          "package_name": "com.starzihack.friendzy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPQR4GXkG321l_LVCoW6nsF9Dmbe4rn7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

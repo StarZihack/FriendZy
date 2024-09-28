@@ -1,16 +1,11 @@
-package com.example.friendzy.activities;
+package com.starzihack.friendzy.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
 
-import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.core.graphics.Insets;
-import androidx.core.view.ViewCompat;
-import androidx.core.view.WindowInsetsCompat;
 
-import com.example.friendzy.R;
-import com.example.friendzy.databinding.ActivitySignInBinding;
+import com.starzihack.friendzy.databinding.ActivitySignInBinding;
 
 public class SignInActivity extends AppCompatActivity {
 

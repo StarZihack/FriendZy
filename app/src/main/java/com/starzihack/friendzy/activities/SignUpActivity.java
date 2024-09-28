@@ -1,4 +1,4 @@
-package com.example.friendzy.activities;
+package com.starzihack.friendzy.activities;
 
 import android.os.Bundle;
 
@@ -8,9 +8,9 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
-import com.example.friendzy.R;
-import com.example.friendzy.databinding.ActivitySignInBinding;
-import com.example.friendzy.databinding.ActivitySignUpBinding;
+import com.starzihack.friendzy.R;
+import com.starzihack.friendzy.databinding.ActivitySignInBinding;
+import com.starzihack.friendzy.databinding.ActivitySignUpBinding;
 
 public class SignUpActivity extends AppCompatActivity {
 
